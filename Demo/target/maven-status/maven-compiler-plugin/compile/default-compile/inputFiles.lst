@@ -1,0 +1,16 @@
+/Users/gauravmahaur/SpringBoot Practice/Demo/src/main/java/com/example/request/CreateSubjectRequest.java
+/Users/gauravmahaur/SpringBoot Practice/Demo/src/main/java/com/example/demo/DemoApplication.java
+/Users/gauravmahaur/SpringBoot Practice/Demo/src/main/java/com/example/response/SubjectResponse.java
+/Users/gauravmahaur/SpringBoot Practice/Demo/src/main/java/com/example/entity/Subject.java
+/Users/gauravmahaur/SpringBoot Practice/Demo/src/main/java/com/example/entity/Address.java
+/Users/gauravmahaur/SpringBoot Practice/Demo/src/main/java/com/example/response/StudentResponse.java
+/Users/gauravmahaur/SpringBoot Practice/Demo/src/main/java/com/example/repository/AdressRepository.java
+/Users/gauravmahaur/SpringBoot Practice/Demo/src/main/java/com/example/entity/Student.java
+/Users/gauravmahaur/SpringBoot Practice/Demo/src/main/java/com/example/request/UpdateStudentRequest.java
+/Users/gauravmahaur/SpringBoot Practice/Demo/src/main/java/com/example/request/InQueryRequest.java
+/Users/gauravmahaur/SpringBoot Practice/Demo/src/main/java/com/example/repository/SubjectRepository.java
+/Users/gauravmahaur/SpringBoot Practice/Demo/src/main/java/com/example/service/StudentService.java
+/Users/gauravmahaur/SpringBoot Practice/Demo/src/main/java/com/example/controller/StudentController.java
+/Users/gauravmahaur/SpringBoot Practice/Demo/src/main/java/com/example/repository/StudentRepository.java
+/Users/gauravmahaur/SpringBoot Practice/Demo/src/main/java/com/example/aop/AspectConfig.java
+/Users/gauravmahaur/SpringBoot Practice/Demo/src/main/java/com/example/request/CreateStudentRequest.java
